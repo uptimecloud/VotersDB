@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="VoterDB" max_length="40" name="x_152362_votersdb_voterdb" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BarCode" label="BarCode" max_length="40" name="u_barcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CollectionDistrict" label="CollectionDistrict" max_length="40" name="u_collectiondistrict" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateOfBirth" label="DateOfBirth" max_length="40" name="u_dateofbirth" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateOfRegistration" label="DateOfRegistration" max_length="40" name="u_dateofregistration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DivisionCode" label="DivisionCode" max_length="40" name="u_divisioncode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FlatNum" label="FlatNum" max_length="40" name="u_flatnum" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FullStreetName" label="FullStreetName" max_length="40" name="u_fullstreetname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GenderCode" label="GenderCode" max_length="40" name="u_gendercode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GivenNames" label="GivenNames" max_length="40" name="u_givennames" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HabitationName" label="HabitationName" max_length="40" name="u_habitationname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IsNew" label="IsNew" max_length="40" name="u_isnew" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IsSilentEnrol" label="IsSilentEnrol" max_length="40" name="u_issilentenrol" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ï»¿VoterCode" max_length="40" name="u_ï__votercode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Occupation" label="Occupation" max_length="40" name="u_occupation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostAddress1" label="PostAddress1" max_length="40" name="u_postaddress1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostAddress2" label="PostAddress2" max_length="40" name="u_postaddress2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostAddress3" label="PostAddress3" max_length="40" name="u_postaddress3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostalVote" label="PostalVote" max_length="40" name="u_postalvote" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostBarcode" label="PostBarcode" max_length="40" name="u_postbarcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Postcode" label="Postcode" max_length="40" name="u_postcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostPostcode" label="PostPostcode" max_length="40" name="u_postpostcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PostSuburb" label="PostSuburb" max_length="40" name="u_postsuburb" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Salutation" label="Salutation" max_length="40" name="u_salutation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StreetName" label="StreetName" max_length="40" name="u_streetname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StreetNo" label="StreetNo" max_length="40" name="u_streetno" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StreetNoSuffix" label="StreetNoSuffix" max_length="40" name="u_streetnosuffix" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StreetNum" label="StreetNum" max_length="40" name="u_streetnum" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StreetType" label="StreetType" max_length="40" name="u_streettype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Suburb" label="Suburb" max_length="40" name="u_suburb" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Surname" label="Surname" max_length="40" name="u_surname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="VotersMailmerge">cee6bb32dbd000104029863239961968</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 04:16:11</sys_created_on>
+        <sys_id>c6e6bb32dbd000104029863239961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cee6bb32dbd000104029863239961968</sys_name>
+        <sys_package display_value="VotersDB" source="x_152362_votersdb">bb87dbf6db5000104029863239961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VotersDB">bb87dbf6db5000104029863239961925</sys_scope>
+        <sys_update_name>sys_report_users_groups_c6e6bb32dbd000104029863239961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 04:16:11</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>
